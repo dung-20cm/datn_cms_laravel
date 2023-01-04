@@ -1,0 +1,7 @@
+-Khởi chạy dự án bằng Visual Studio
+-Mở Terminal ở trên thanh công cụ hoặc bằng tổ hợp phím Ctrl + Shift + `
+-Gõ câu lệnh: yarn start
+-Sau khi project hiển thị ở local:8000, page Login 
+-Nhập tài khoản: doantotnghiep@gmail.com
+      mật khẩu: 123456789
+-Để thực hiện truy cập cms để xem dữ liệu và thực hiện chức năng quản lí 
