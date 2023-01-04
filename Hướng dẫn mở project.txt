@@ -1,6 +1,6 @@
 -Khởi chạy dự án bằng Visual Studio
 -Mở Terminal ở trên thanh công cụ hoặc bằng tổ hợp phím Ctrl + Shift + `
--Gõ câu lệnh: yarn start
+-Gõ câu lệnh: php artisan serve
 -Sau khi project hiển thị ở local:8000, page Login 
 -Nhập tài khoản: doantotnghiep@gmail.com
       mật khẩu: 123456789
