@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm .
- * User: trungphuna .
- * Date: 12/6/22 .
- * Time: 3:50 PM .
- */
+
 
 namespace App\Http\Middleware;
 

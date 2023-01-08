@@ -14,7 +14,7 @@
 {{--                        <div class="row">--}}
 {{--                            <div class="col-sm-3">--}}
 {{--                                <div class="mb-3">--}}
-{{--                                    <input type="text" name="n" value="{{ Request::get('n') }}" class="form-control" placeholder="Tên danh mục">--}}
+{{--                                    <input type="text" name="n" autocomplete="off" value="{{ Request::get('n') }}" class="form-control" placeholder="Tên danh mục">--}}
 {{--                                </div>--}}
 {{--                            </div><!-- Col -->--}}
 {{--                            <div class="col-sm-3">--}}

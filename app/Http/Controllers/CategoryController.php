@@ -32,6 +32,7 @@ class CategoryController extends Controller
 
     public function store(Request $request)
     {
+        // dd($request);
         $data               = $request->except('_token');
         $data['c_slug']     = Str::slug($request->c_name);
         $data['created_at'] = Carbon::now();

@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm .
- * User: trungphuna .
- * Date: 4/20/21 .
- * Time: 6:01 PM .
- */
+
 
 use Illuminate\Database\Eloquent\Model;
 
